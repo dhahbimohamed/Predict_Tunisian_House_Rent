@@ -50,6 +50,7 @@ Final performance (after filtering outliers):
 Model trained on features:
 ```python
 ['surface', 'rooms', 'bathrooms', 'city_Tunis', 'city_Sfax', ...]
+```
 
 ## 👨‍💻 Author
 **Mohamed Dhahbi** — CS student & aspiring ML engineer  
