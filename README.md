@@ -8,7 +8,7 @@ Built by a Tunisian CS student to explore real-world ML from end to end — from
 
 ## 🚀 Live App
 
-👉 [Click here to open the live app]([https://your-app-url.streamlit.app](https://predicttunisianhouserent-sdxmw825dhufuvl9vayeqd.streamlit.app/))  
+👉 [Click here to open the live app]((https://predicttunisianhouserent-sdxmw825dhufuvl9vayeqd.streamlit.app/))  
 
 ---
 
