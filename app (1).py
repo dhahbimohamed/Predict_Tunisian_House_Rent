@@ -10,7 +10,7 @@ with open('model.pkl', 'rb') as f:
 with open('model_features.pkl', 'rb') as f:
     feature_names = pickle.load(f)
 
-# 🌍 Available cities (must match training)
+# 🌍 Available cities
 available_cities = [col.replace('city_', '') for col in feature_names if col.startswith('city_')]
 
 # 🧾 App Title
